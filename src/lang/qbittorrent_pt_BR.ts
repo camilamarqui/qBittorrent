@@ -12114,7 +12114,7 @@ Por favor escolha um nome diferente e tente de novo.</translation>
         <location filename="../base/utils/misc.cpp" line="235"/>
         <source>%1m</source>
         <comment>e.g: 10 minutes</comment>
-        <translation>%1 minuto</translation>
+        <translation>%1 minutos</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="241"/>
